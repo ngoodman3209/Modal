@@ -1,0 +1,21 @@
+{
+  "name": "modal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngoodman3209/Awesome-ul.git"
+  },
+  "author": "Nicholas Goodman",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "emotion": "^9.2.6",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
